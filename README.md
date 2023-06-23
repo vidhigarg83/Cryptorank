@@ -1,7 +1,7 @@
 # Cryptorank
 The application displays the top ten cryptocurrencies in the world based on their market capitalization.
 Welcome to the Cryptorank Project! This application allows you to access detailed information about the top ten cryptocurrencies in the world, including their value statistics , extensive price history, all-time highs, ranks, supplies, and market caps. Additionally, you can explore information about other cryptocurrencies and their data.
-You can view the following details for each cryptocurrency:
+# You can view the following details for each cryptocurrency:
 •	Name: The name of the cryptocurrency.
 •	Price in USD: Price of the Cryptocurrency in Dollars.
 •	Symbol: The symbol or ticker of the cryptocurrency.
